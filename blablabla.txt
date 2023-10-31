@@ -1,5 +1,4 @@
 linha 1
 linha 2
-line 3linha 3
-linha 4linha 4
+linha 4
 linha 5
